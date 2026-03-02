@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.options import Options
 import time
 import random
 
-EMAIL = "henryinxide786@gmail.com"      # 👈 WO ID JO BOOST KARNA HAI
-PASSWORD = "#HENRY#INXIDE#786"    # 👈 USI KA PASSWORD
+EMAIL = ""      # 👈 WO ID JO BOOST KARNA HAI
+PASSWORD = ""    # 👈 USI KA PASSWORD
 
 TARGET_POSTS = [               # Multiple posts boost kar
     "https://www.facebook.com/61564155712159/posts/122168460608471857/?substory_index=1510473873314619&app=fbl",
