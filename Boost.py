@@ -5,11 +5,11 @@ from selenium.webdriver.chrome.options import Options
 import time
 import random
 
-EMAIL = "TARGET_FB_EMAIL"      # 👈 WO ID JO BOOST KARNA HAI
-PASSWORD = "TARGET_FB_PASS"    # 👈 USI KA PASSWORD
+EMAIL = "henryinxide786@gmail.com"      # 👈 WO ID JO BOOST KARNA HAI
+PASSWORD = "#HENRY#INXIDE#786"    # 👈 USI KA PASSWORD
 
 TARGET_POSTS = [               # Multiple posts boost kar
-    "https://facebook.com/POST1_ID",
+    "https://www.facebook.com/61564155712159/posts/122168460608471857/?substory_index=1510473873314619&app=fbl",
     "https://facebook.com/POST2_ID", 
     "https://facebook.com/POST3_ID"
 ]
